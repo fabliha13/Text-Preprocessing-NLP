@@ -20,8 +20,8 @@ These preprocessing steps are critical for preparing raw text data for further a
 
 ## Files
 
-- **`preprocessing_script.py`**: Python script that implements the text preprocessing steps.
-- **`data/`**: Directory containing sample text files or datasets used for preprocessing.
+- **`text_preprocessing_nlp.py`**: Python script that implements the text preprocessing steps.
+- **`paragraphs.txt`**: Containing sample text file used for preprocessing.
 
 ## Usage
 
